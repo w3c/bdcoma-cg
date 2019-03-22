@@ -3,7 +3,7 @@
 This Community Group is open to every person interested in the authoring of digital visual narratives, W3C member or not. 
 It does not focus on technology; rather on how different forms of digital works can be modeled in a universal way.  
 
-The draft charter preview can be reviewed [here](http://htmlpreview.github.io/?https://github.com/w3c/bdcoma-cg/blob/master/BD%20Comics%20Manga%20Community%20Group%20Charter.htm).
+The draft charter preview can be reviewed [here](https://raw.githack.com/w3c/bdcoma-cg/master/BD%20Comics%20Manga%20Community%20Group%20Charter.htm).
 
 The work is starting, with a focus on different use cases like Webtoon, Turbomedia, digitized works & guided navigation, inbook update etc. and features like scroll, snap-points, transitions, parallax effects etc. 
 
